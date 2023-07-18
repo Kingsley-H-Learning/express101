@@ -1,0 +1,20 @@
+{
+  "name": "express101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingsley-H-Learning/express101.git"
+  },
+  "author": "Kingsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingsley-H-Learning/express101/issues"
+  },
+  "homepage": "https://github.com/Kingsley-H-Learning/express101#readme"
+}
