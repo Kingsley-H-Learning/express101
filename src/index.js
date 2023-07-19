@@ -7,6 +7,10 @@ app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 
+app.get('/name', (req, res) => {
+  res.send('Helle name');
+});
+
 app.post('/name', (req, res) => {
   const { firstname, lastname } = req.body;
   res.send(`${firstname} ${lastname}`);
